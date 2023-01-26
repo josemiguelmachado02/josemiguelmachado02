@@ -1,6 +1,6 @@
-### Oi, sou José Miguel Machado! 👋
+### Oi, sou Careca! 👋
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 - 🔭 Eu trabalho com programação
 - 🌱 Etou aprendendo PHP
