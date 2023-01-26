@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Eu trabahlo com programação
+- 🔭 Eu trabalho com programação
 - 🌱 Etou aprendendo PHP
 - 👯 Gostaria de uma parceria em projetos novos
 - 🤔 QUero ajuda um Java
