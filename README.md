@@ -1,6 +1,7 @@
 ### Oi, sou Careca! 👋
 
 ![Careca's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemiguelmachado02&dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=josemiguelmachado02&layout=compact&theme=dracula)
 
 - 🔭 Eu trabalho com programação
 - 🌱 Etou aprendendo PHP
